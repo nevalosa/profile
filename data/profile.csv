@@ -1,0 +1,53 @@
+Ledend,Skill,Capability,Value,Years
+CS,Java,8.5,27,15
+CS,Architecture,10,26,12
+CS,Patents,9.5,30,15
+ICT,SDN,10,28.5,10
+ICT,DCN,9,26.2,8
+ICT,IBN,8.5,25.5,5
+CS,NLP,9.2,24.5,12.5
+CS,SearchEngine,10,20,10
+CS,Lucene,7.5,20.5,7.5
+CS,Solr,8,19.5,7
+CS,Facet,7.3,18.8,5.5
+Math,Algorithm,8.2,23.5,15
+Math,CRF,4.8,8,4.5
+Math,HMM,6.3,8.8,7
+Math,Viterbi,4,5,4.5
+Math,TopicModel,6,12,4.5
+Math,LDA,6,10,4.5
+Math,Linear Algebra,6,8,5
+Math,Probability,6.5,10.5,6
+Math,Multivariate Calculus,5,11,6
+Math,Vectors, 5.2,9,5.5
+Math,Analytic Geometry, 4.5,9,5.5
+Cloud,Cloud,9.5,27.5,10
+Cloud,ModelArts,6,22,5
+Cloud,MindSpore,5,20,5
+Cloud,Atlas,6.5,23,4.5
+Cloud,PaaS,9.8,24,10
+Cloud,MicroService,8.2,21,9
+AI,AI,9,29,8
+AI,DeepLearning,7.5,23,5
+AI,Transformer,5.6,19,4.5
+AI,RNN,5.8,20.8,4
+AI,YoloV3,5.8,17.8,4.5
+AI,MOOC,6.5,20,5
+AI,NEO4j,7.9,29,3.5
+AI,OWL,8.8,28.2,3.5
+AI,Reasoning,7.7,25.4,4
+AI,Context-Aware,7.8,27,3
+AI,Ontology,8.5,29.8,3.5
+Mgmt,印度数通PLR(30人),6.8,15, 5.5
+Mgmt,UAE联合创新中心(7人),6.5,17.5,5
+Mgmt,G42Cloud(伙伴5人),7.5,16,4.5
+Mgmt,架构师(10人),9,21,12
+Mgmt,技术总监(60人),7.5,13,4.5
+Mgmt,战略规划,8.5,18,9
+Mgmt,技术洞察,8,15,8
+CS,Hackathon,4,12,5.5
+CS,OpenDaylight,4.5,13,6
+CS,OVS,4.8,14,5
+CS,Mininet,5.1,16.5,6.8
+CS,OpenStack,5.5,15,7
+Mgmt,作者：邓晓涛 创建于2022年8月,10,10,1
